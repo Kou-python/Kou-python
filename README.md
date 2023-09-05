@@ -2,7 +2,14 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kou-python)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Connect with me
+## 🌱 I’m currently learning ...
+<p>独学プログラマー Python言語の基本から仕事のやり方まで<p/>
+<a href="https://amzn.to/45SQKD8">
+<img width="30%" src="https://m.media-amazon.com/images/I/71ZpZY+xd5S.jpg" >
+<a/>
+進行状況：4章
+
+## Contact
 <div align="center">
 <a href="https://github.com/Kou-python" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
