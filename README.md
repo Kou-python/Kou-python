@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kou-python)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🌱 I’m currently learning ...
 <p>独学プログラマー Python言語の基本から仕事のやり方まで<p/>
 <a href="https://amzn.to/45SQKD8">
