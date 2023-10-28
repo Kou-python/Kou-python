@@ -5,7 +5,7 @@
 <a href="https://amzn.to/45SQKD8">
 <img width="30%" src="https://m.media-amazon.com/images/I/71ZpZY+xd5S.jpg" >
 <a/>
-進行状況：4章
+進行状況：10章
 
 ## Contact
 <div align="center">
