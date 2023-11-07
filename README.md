@@ -1,4 +1,20 @@
-### Hi there 👋
+# ようこそ
+## 企業の方へ
+
+- **大学制作物:**
+  - [MyUniProjects リポジトリへアクセス](https://github.com/Kou-python/MyUniProjects)
+
+- **個人学習物:**
+  - [python_learn リポジトリへアクセス](https://github.com/Kou-python/python_learn)
+
+- **ハッカソン制作物:**
+  - [202311_hackathon リポジトリへアクセス](https://github.com/Kou-python/202311_hackathon)
+
+- **尾形プロジェクト（大学のゼミライクな集団）制作物:**
+  - [尾形プロジェクト リポジトリ一覧](https://github.com/orgs/ogatapro/repositories)
+
+ご興味があるプロジェクトがあれば、リンクをクリックして詳細をご覧いただけます。
+
 
 ## 🌱 I’m currently learning ...
 <p>独学プログラマー Python言語の基本から仕事のやり方まで<p/>
