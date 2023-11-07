@@ -18,7 +18,7 @@
 ## 🌱 I’m currently learning ...
 <p>独学プログラマー Python言語の基本から仕事のやり方まで<p/>
 <a href="https://amzn.to/45SQKD8">
-<img width="30%" src="https://m.media-amazon.com/images/I/71ZpZY+xd5S.jpg" >
+<img width="10%" src="https://m.media-amazon.com/images/I/71ZpZY+xd5S.jpg" >
 <a/>
 進行状況：10章
 
