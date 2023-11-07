@@ -1,5 +1,4 @@
 # ようこそ
-## 企業の方へ
 
 - **大学制作物:**
   - [MyUniProjects リポジトリへアクセス](https://github.com/Kou-python/MyUniProjects)
