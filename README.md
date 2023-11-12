@@ -1,4 +1,6 @@
 # ようこそ
+メールアドレス設定に長年格闘して、過去の草が大分枯れてしまいました。
+お手柔らかによろしくお願いします。
 
 - **大学制作物:**
   - [MyUniProjects リポジトリへアクセス](https://github.com/Kou-python/MyUniProjects)
