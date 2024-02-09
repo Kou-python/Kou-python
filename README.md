@@ -5,9 +5,11 @@
 
 - **個人学習物:**
   - [python_learn リポジトリへアクセス](https://github.com/Kou-python/python_learn)
+    自分のバイト先の毎月の報告書の入力を自動化させるツールをアップしました。(24.02)
 
 - **ハッカソン制作物:**
   - [202311_hackathon リポジトリへアクセス](https://github.com/Kou-python/202311_hackathon)
+  - [Supporters_Hackathon2024.02.03](https://github.com/Kou-python/Supporters_Hackathon2024.02.03)
 
 - **尾形プロジェクト（大学のゼミライクな集団）制作物:**
   - [尾形プロジェクト リポジトリ一覧](https://github.com/orgs/ogatapro/repositories)
