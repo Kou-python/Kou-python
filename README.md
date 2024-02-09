@@ -5,7 +5,7 @@
 
 - **個人学習物:**
   - [python_learn リポジトリへアクセス](https://github.com/Kou-python/python_learn)
-    自分のバイト先の毎月の報告書の入力を自動化させるツールをアップしました。(24.02)
+    <p>自分のバイト先の毎月の報告書の入力を自動化させるツールをアップしました。(24.02)</p>
 
 - **ハッカソン制作物:**
   - [202311_hackathon リポジトリへアクセス](https://github.com/Kou-python/202311_hackathon)
