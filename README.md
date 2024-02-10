@@ -4,7 +4,7 @@
   - [MyUniProjects リポジトリへアクセス](https://github.com/Kou-python/MyUniProjects)
 
 - **個人学習物:**
-  - [python_learn リポジトリへアクセス](https://github.com/Kou-python/python_learn)
+  - [hogehoge リポジトリへアクセス](https://github.com/Kou-python/hogehoge)
     <p>自分のバイト先の毎月の報告書の入力を自動化させるツールをアップしました。(24.02)</p>
 
 - **ハッカソン制作物:**
