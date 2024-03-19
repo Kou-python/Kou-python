@@ -15,6 +15,8 @@
 - **尾形プロジェクト（大学のゼミライクな集団）制作物:**
   - [尾形プロジェクト](https://github.com/orgs/ogatapro/repositories)
 
+- **動画・発表資料:**
+  - [to Google Drive](https://drive.google.com/drive/u/2/folders/11cpOa5wBSzoE2fPRb8CbGmzdQTpuXKK2)
 ご興味があるプロジェクトがあれば、リンクをクリックして詳細をご覧いただけます。
 
 
