@@ -1,10 +1,10 @@
 # ようこそ
 
 - **[Prime]大学制作物:**
-  - [MyUniProjects リポジトリへアクセス](https://github.com/Kou-python/MyUniProjects)
+  - [MyUniProjects](https://github.com/Kou-python/MyUniProjects)
 
 - **個人学習物:**
-  - [hogehoge リポジトリへアクセス](https://github.com/Kou-python/hogehoge)
+  - [hogehoge](https://github.com/Kou-python/hogehoge)
     <p>自分のバイト先の毎月の報告書の入力を自動化させるツールをアップしました。(24.02)</p>
 
 - **ハッカソン制作物:**
@@ -13,7 +13,7 @@
   - [Shackathon_202403](https://github.com/Kou-python/Shackathon_202403)
 
 - **尾形プロジェクト（大学のゼミライクな集団）制作物:**
-  - [尾形プロジェクト リポジトリ一覧](https://github.com/orgs/ogatapro/repositories)
+  - [尾形プロジェクト](https://github.com/orgs/ogatapro/repositories)
 
 ご興味があるプロジェクトがあれば、リンクをクリックして詳細をご覧いただけます。
 
