@@ -4,6 +4,7 @@
   - [MyUniProjects](https://github.com/Kou-python/MyUniProjects)
 
 - **個人成果物(almost input):**
+  - [専大混雑度シェアアプリ(WebApp)](https://senshu.glideapp.io)
   - [hogehoge](https://github.com/Kou-python/hogehoge)
     <p>自分のバイト先の毎月の報告書の入力を自動化させるツールをアップしました。(24.02)</p>
 
