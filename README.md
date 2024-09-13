@@ -5,13 +5,6 @@
   - [Shackathon_202402](https://github.com/Kou-python/Supporters_Hackathon2024.02.03)
   - [Shackathon_202403](https://github.com/Kou-python/Shackathon_202403)
 
-## 🌱 I’m currently learning ...
-独学プログラマー Python言語の基本から仕事のやり方まで
- - 進行状況：10章
-<a href="https://amzn.to/45SQKD8">
-<img width="10%" src="https://m.media-amazon.com/images/I/71ZpZY+xd5S.jpg" >
-<a/>
-
 ## Contact
 <div align="center">
 <a href="https://github.com/Kou-python" target="_blank">
